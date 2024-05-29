@@ -1,0 +1,24 @@
+.buttons button{
+    
+    color: white;
+    height: 12rem;
+    width: 12rem;
+}
+.buttons{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#red{
+    background-color: red;
+}
+#purple{
+    background-color: purple;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
